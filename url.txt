@@ -1,0 +1,2 @@
+dataset : https://www.kaggle.com/datasets/stealthtechnologies/employee-attrition-dataset?select=train.csv
+deployement : https://huggingface.co/spaces/Deryrai/Employee_attrition/tree/main 
